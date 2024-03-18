@@ -12,6 +12,8 @@ Open JDK： 17.0.6
 
 ----
 
+Test URL: https://aiqicha.baidu.com/index/getCPlaceAjax
+
 **Normal response**
 
 ![before](https://github.com/daliang987/UnicodeDecoder/blob/master/img/before.png)
