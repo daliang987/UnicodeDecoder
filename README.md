@@ -12,9 +12,9 @@ Open JDK： 17.0.6
 
 ----
 
+![before](https://github.com/daliang987/UnicodeDecoder/blob/master/img/before.png)
 
-
-
+![after](https://github.com/daliang987/UnicodeDecoder/blob/master/img/after.png)
 
 ### Installation
 
